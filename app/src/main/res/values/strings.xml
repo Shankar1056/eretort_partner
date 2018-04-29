@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EretortPartner</string>
+    <string name="fromdate">From Date</string>
+    <string name="todate">To Date</string>
+    <string name="selectteacer">Select Teacher</string>
+    <string name="text_leaveapplication">Leave Application</string>
+    <string name="add_student">Add Student</string>
+    <string name="add_teacer">Add Teacher</string>
+    <string name="pleasewait">Please wait...</string>
+    <string name="softgalli_school">Eretort School</string>
+    <string name="gurukul_school">Gurukul Shikshalay</string>
+    <string name="sps_nawalsahi">SPS Nawalsahi</string>
+
+    <string name="roboto_medium">fonts/Roboto-Medium.ttf</string>
+    <string name="roboto_regular">fonts/Roboto-Regular.ttf</string>
+    <string name="roboto_bold">fonts/Roboto-Bold.ttf</string>
+    <string name="select_school">Select your School</string>
+    <string name="text_enterschoolcode">Enter your school code</string>
+</resources>
